@@ -9,7 +9,7 @@ public class EmployeeDTO {
     private Boolean isActive;
     private Integer age;
     private LocalDate dateOfJoining;
-
+    //Note: we can also add validation logic also here if email is logic or not etc
     public EmployeeDTO(){
 
     }
